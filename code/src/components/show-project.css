@@ -1,0 +1,44 @@
+.show-project-container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.show-project-object {
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.show-project-text-top , .show-project-text-bottom{
+  width: 80%;
+  color: darkblue;
+}
+
+.show-project-image {
+  width: 50%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.show-project-image img {
+  width: 100%;
+  height: auto;
+  border-style: solid;
+  border-radius: 10px;
+  margin: 10px 0px;
+}
+
+.show-project-text-project-link {
+  width: 80%;
+  justify-content: center;
+  text-align: center;
+  margin: 20px 0px;
+}

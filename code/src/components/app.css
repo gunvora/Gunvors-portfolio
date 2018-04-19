@@ -1,0 +1,42 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  background-color:  #efef85;
+}
+
+* {
+box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-links {
+  border-color: red;
+  justify-content: center;
+}
+
+.header-links li {
+  align-items: center;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+.header-text h1 {
+  font-size: 40px;
+  font-style: oblique;
+}
+
+.footer {
+  margin: 30px;
+}

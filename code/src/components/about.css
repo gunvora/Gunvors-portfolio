@@ -1,0 +1,40 @@
+.about-picture {
+  width: calc(25% - 10px);
+  display: flex;
+  flex-direction: column;
+}
+
+.about-picture img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 25%;
+  }
+
+.about-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center; */
+  margin-top: 30px;
+  flex-direction: row;
+}
+
+.about-text-section {
+  width: calc(50% - 20px);
+  margin: 10px;
+}
+
+.about-text-section h3 {
+  margin-left: 20px;
+}
+
+.about-picture-section {
+  width: calc(50% - 20px);
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+}
