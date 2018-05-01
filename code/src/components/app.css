@@ -1,11 +1,13 @@
 * {
   font-family: "Times New Roman", Times, serif;
-  background-color:  #efef85;
+  box-sizing: border-box;
+  /* background-color:  #efef85; */
 }
 
-* {
-box-sizing: border-box;
+.header {
+    background-image: url("./images/hibiscus_DSC_0513.jpg");
 }
+
 
 ul {
   list-style-type: none;
@@ -27,16 +29,24 @@ ul {
 }
 
 .header-links li {
+  color: white;
   align-items: center;
   text-decoration: none;
   margin: 10px 20px;
 }
 
+.header-links a{
+  color: black;
+}
+
 .header-text h1 {
+  color: black;
   font-size: 40px;
   font-style: oblique;
 }
 
+
 .footer {
-  margin: 30px;
+  width: 100%;
+  margin: 10px;
 }

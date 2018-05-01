@@ -6,7 +6,7 @@ import data from "../data"
 class ProjectsList extends React.Component {
   render() {
     return (
-      <div className="projects-list-container">
+      <div className="container-project-list">
         <div className="projects-list-text">
           <h1>Projects</h1>
           <div className="intro-me">

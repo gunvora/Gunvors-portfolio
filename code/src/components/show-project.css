@@ -1,10 +1,18 @@
 .show-project-container {
+    background-image: url("./images/IMGP0750.JPG");
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+
+.show-project-container {
   display: flex;
   width: 100%;
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 50px;
 }
 
 .show-project-object {
@@ -41,4 +49,14 @@
   justify-content: center;
   text-align: center;
   margin: 20px 0px;
+}
+
+@media (max-width: 600px) {
+  .show-project-object {
+    width: 100%;
+  }
+  .show-project-image {
+    width: 80%;
+  }
+
 }

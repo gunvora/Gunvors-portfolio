@@ -53,9 +53,16 @@ export default class About extends React.Component {
           </div>
         </div>
         <div className="footer">
-          <p>Contact details:</p>
-          <p>Phone number +46 70 ... ....</p>
-          <p>Email: gunvor_a@........</p>
+          <footer>
+            <p>Contact details:</p>
+            <p>Gunvor Andersson</p>
+            <p>Phone number +46 70 ... ....</p>
+            <p>Contact information:
+              <a href="mailto:gunvor_a@example.com">
+              gunvor_a@example.com
+              </a>
+            </p>
+          </footer>
         </div>
       </div>
     )
