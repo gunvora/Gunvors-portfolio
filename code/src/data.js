@@ -37,7 +37,7 @@ export default [
     description: "The solution is implemented in CSS and HTML, and is rsponsive and work for mobiles. Data is posted from the form into a service called HTTPbin",
     image: "grid.png",
     technique: "Grid",
-    link: ""
+    link: "https://gunvora.github.io/assignment-css-grid/"
   },
   {
     id: "6",
