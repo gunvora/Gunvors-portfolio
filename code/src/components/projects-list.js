@@ -10,13 +10,16 @@ class ProjectsList extends React.Component {
         <div className="projects-list-text">
           <h1>Projects</h1>
           <div className="intro-me">
-            <p>..Short about me..</p>
           </div>
           <div>
             <h3>
-            You are welcome to follow my journey to become
-            a Front End Developer. Below you may browse some
-            of the projects I have done.
+              I am attending a boot camp to learn Front End Development.
+            </h3>
+            <h3>
+              You are welcome to follow my journey to become
+              a Front End Developer. Below you may browse some
+              of the projects I have done. Some have been deployed
+              and some will be at a later stage.
             </h3>
           </div>
         </div>

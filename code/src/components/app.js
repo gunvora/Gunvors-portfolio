@@ -11,7 +11,7 @@ class App extends React.Component {
     return (
       <div className="header">
         <div className="header-text">
-          <h1>Gunvor´s portfolio</h1>
+          <h1>Gunvor Andersson - Front End Development</h1>
         </div>
         <BrowserRouter>
           <div>

@@ -1,11 +1,9 @@
 footer {
-
 }
 
 .about-container {
     background-image: url("./images/IMGP0750.JPG");
 }
-
 
 .about-picture {
   width: calc(33% - 10px);
@@ -35,7 +33,7 @@ footer {
   margin: 10px;
 }
 
-.about-text-section h3 {
+.about-text-section h3, p {
   margin-left: 20px;
 }
 
@@ -61,7 +59,6 @@ footer {
   .about-picture-section {
     width: 100%;
     margin: 40px 0px;
-    /* flex-direction: column; */
   }
 
   .about-picture {

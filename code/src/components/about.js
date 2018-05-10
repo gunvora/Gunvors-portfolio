@@ -8,16 +8,23 @@ export default class About extends React.Component {
       <div className="about-container">
         <div className="about-text-section">
           <h3>Who is Gunvor?</h3>
-          <p>I am ..... </p>
+          <p>I am a curious person and like to learn and try new things.</p>
           <p>I have worked in Telecom and IT for a long time,
-          in different positions in Customer Services and Service Management.
+            in different positions in Customer Services and Service Management.
+            Now I would like to do more of "hands-on" work, where I can vision
+            a more immediate result.
           </p>
           <p>I hold a MSc in Mechanical Engineers and has
-          also worked as a Software Designer with Climate Control and Telecom.
+            also worked as a Software Designer with Climate Control and Telecom.
           </p>
-          <p>From the pictures to the right you may get a
-          deeper understanding of my interests and what I have been
-          doing in my spare time.
+          <p>
+            I like to be outdoors in the nature and I like to travel and
+            get insight into different cultures.
+            A good football game, and athlets on the field, are also a pleasure to view.
+          </p>
+          <p>From the pictures you may get an
+            understanding of my interests and what I have been
+            doing in my spare time.
           </p>
         </div>
         <div className="about-picture-section">
@@ -56,10 +63,10 @@ export default class About extends React.Component {
           <footer>
             <p>Contact details:</p>
             <p>Gunvor Andersson</p>
-            <p>Phone number +46 70 ... ....</p>
+            <p>Phone number +46 70 329 1685</p>
             <p>Contact information:
-              <a href="mailto:gunvor_a@example.com">
-              gunvor_a@example.com
+              <a href="mailto:gunvor_a@telia.com">
+              gunvor_a@telia.com
               </a>
             </p>
           </footer>

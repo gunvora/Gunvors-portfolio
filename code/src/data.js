@@ -5,31 +5,31 @@ export default [
     description: "A classic magazine or newspaper style grid of images which could link to articles. On desktop sized screens 3 images on a row, on Tablets 2 images and on mobile 1 image on each row.",
     image: "newspaper.png",
     technique: "HTML, CSS, Media query",
-    link: ""
+    link: "https://gunvora.github.io/assignment-newspaper/"
   },
   {
     id: "2",
     name: "Hero",
-    description: "........paper style grid of images which could link to articles. On desktop sized screens 3 images on a row, on Tablets 2 images and on mobile 1 image on each row.",
+    description: "A hero video that is responsive and retrieves the right video file depending on the size of the screen",
     image: "hero.png",
     technique: "HTML, CSS, Media query",
-    link: ""
+    link: "https://gunvora.github.io/assignment-hero/"
   },
   {
     id: "3",
     name: "Assignment Form",
-    description: "........paper style grid of images which could link to articles. On desktop sized screens 3 images on a row, on Tablets 2 images and on mobile 1 image on each row.",
+    description: "Build a signup form for a web service, style it and post the data from the form into a service called HTTPbin",
     image: "form.png",
     technique: "HTML, CSS, Media query",
-    link: ""
+    link: "https://gunvora.github.io/assignment-forms/"
   },
   {
     id: "4",
     name: "FAQ-site",
-    description: "........paper style grid of images which could link to articles. On desktop sized screens 3 images on a row, on Tablets 2 images and on mobile 1 image on each row.",
+    description: "FAQ-site, of type accordion, i.e. an area that can collapse to show and hide text",
     image: "accordion.png",
-    technique: "HTML, CSS, .....",
-    link: ""
+    technique: "HTML, CSS, Java script",
+    link: "https://gunvora.github.io/assignment-accordion/"
   },
   {
     id: "5",
@@ -37,7 +37,6 @@ export default [
     description: "The ordering system allows the user to input orders, and the bot sends output.",
     image: "pizza.png",
     technique: "Java Script - alert() and prompt()",
-    link: ""
   },
   {
     id: "6",
@@ -53,7 +52,7 @@ export default [
     description: "........paper style grid of images which could link to articles. On desktop sized screens 3 images on a row, on Tablets 2 images and on mobile 1 image on each row.",
     image: "design.png",
     technique: "HTML, CSS, React, .....",
-    link: ""
+
   },
   {
     id: "8",
@@ -61,7 +60,7 @@ export default [
     description: "........paper style grid of images which could link to articles. On desktop sized screens 3 images on a row, on Tablets 2 images and on mobile 1 image on each row. The project was later changed to fetch product data from a Mongo DB",
     image: "product-page.png",
     technique: "HTML, CSS, React, .....",
-    link: ""
+
   },
   {
     id: "9",
@@ -69,7 +68,7 @@ export default [
     description: "Hamburger menu added to an existing site",
     image: "hamburger.png",
     technique: "HTML, CSS, Media query",
-    link: ""
+
   },
   {
     id: "10",
@@ -77,7 +76,7 @@ export default [
     description: "A clock which updates every second and can be stopped.",
     image: "clock.png",
     technique: "React, CSS",
-    link: ""
+
   },
   {
     id: "11",
@@ -93,7 +92,7 @@ export default [
     description: "..........A clock which updates every second and can be stopped.",
     image: "vat.png",
     technique: "React, CSS",
-    link: ""
+
   },
   {
     id: "13",
@@ -101,7 +100,7 @@ export default [
     description: ".......A clock which updates every second and can be stopped.",
     image: "todo.png",
     technique: "React, CSS",
-    link: ""
+
   },
   {
     id: "14",
@@ -109,7 +108,7 @@ export default [
     description: ".......A clock which updates every second and can be stopped.",
     image: "flight_sass.png",
     technique: "React, CSS,    ",
-    link: ""
+
   },
   {
     id: "15",
@@ -125,7 +124,7 @@ export default [
     description: ".......A clock which updates every second and can be stopped.",
     image: "address_list.png",
     technique: "React, CSS",
-    link: ""
+
   },
   {
     id: "17",
@@ -133,7 +132,7 @@ export default [
     description: ".......A clock which updates every second and can be stopped.",
     image: "product_api.png",
     technique: "React, CSS",
-    link: ""
+    
   },
   {
     id: "18",

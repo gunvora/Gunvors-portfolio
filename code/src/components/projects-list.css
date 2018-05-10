@@ -2,16 +2,12 @@
     box-sizing: border-box;
 }
 
-/* .projects-list-container {
-  width: 90%;
-} */
-
 .container-project-list {
   background-image: url("./images/IMGP0750.JPG");
   display: flex;
   flex-wrap: wrap;
-  /* justify-content: flex-start; */
   margin-top: 50px;
+  padding-bottom: 20px;
 }
 
 .projects-list-text {
@@ -24,7 +20,6 @@
   flex-wrap: wrap;
   justify-content: center;
     justify-content: space-around;
-  /* margin-left: 5%; */
 }
 
 .projects-lists-one-project {
