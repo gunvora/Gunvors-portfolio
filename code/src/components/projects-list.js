@@ -29,7 +29,7 @@ class ProjectsList extends React.Component {
                   <div className="project-name">{project.name}</div>
                   <div className="project-name-click">(click for more details)</div>
                 </div>
-                <div className="projects-list-container img">
+                <div className="projects-list-container">
                   <img src={require(`./images/${project.image}`)} alt="..image.." />
                 </div>
               </Link>

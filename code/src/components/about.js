@@ -22,34 +22,34 @@ export default class About extends React.Component {
         </div>
         <div className="about-picture-section">
           <div className="about-picture">
-            <img src={require("./images/hibiscus_DSC_0513.jpg")} alt="yellow hibiscus" />
+            <img src={require("./images/hibiscus_DSC_0513.jpg")} alt="yellow_hibiscus" />
           </div>
           <div className="about-picture">
-            <img src={require("./images/killerwhale_DSC_0044_2.jpg")} alt="killer whale" />
+            <img src={require("./images/DSC_0044.JPG")} alt="killer_whale" />
           </div>
           <div className="about-picture">
             <img src={require("./images/turtle.png")} alt="turtle" />
           </div>
           <div className="about-picture">
-            <img src={require("./images/Gunvor@1x.jpg")} alt="---later..." />
+            <img src={require("./images/DSCN2057.jpg")} alt="huitres_bretagne" />
           </div>
           <div className="about-picture">
-            <img src={require("./images/Gunvor@1x.jpg")} alt="---later..." />
+            <img src={require("./images/div 003.jpg")} alt="sunflower" />
           </div>
           <div className="about-picture">
-            <img src={require("./images/Gunvor@1x.jpg")} alt="---later..." />
+            <img src={require("./images/DSC_0154.JPG")} alt="Sweden_footboll" />
           </div>
           <div className="about-picture">
-            <img src={require("./images/Gunvor@1x.jpg")} alt="---later..." />
+            <img src={require("./images/CIMG1203.JPG")} alt="Cook_Island" />
           </div>
           <div className="about-picture">
-            <img src={require("./images/Gunvor@1x.jpg")} alt="---later..." />
+            <img src={require("./images/DSC_0247.JPG")} alt="pink_hibiscus_barbeque" />
           </div>
           <div className="about-picture">
-            <img src={require("./images/Gunvor@1x.jpg")} alt="---later..." />
+            <img src={require("./images/DSC_0246.JPG")} alt="summer_in_Swedish_archipelago" />
           </div>
           <div className="about-picture">
-            <img src={require("./images/Gunvor@1x.jpg")} alt="---later..." />
+            <img src={require("./images/IMGP0277.JPG")} alt="orchide" />
           </div>
         </div>
         <div className="footer">
