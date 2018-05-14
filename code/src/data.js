@@ -5,7 +5,7 @@ export default [
     description: "A classic magazine or newspaper style grid of images which could link to articles. On desktop sized screens 3 images on a row, on Tablets 2 images and on mobile 1 image on each row.",
     image: "newspaper.png",
     technique: "HTML, CSS, Media query",
-    link: "https://gunvora.github.io/assignment-newspaper/"
+    link: "https://gunvora.github.io/newspaper/"
   },
   {
     id: "2",
@@ -132,7 +132,7 @@ export default [
     description: ".......A clock which updates every second and can be stopped.",
     image: "product_api.png",
     technique: "React, CSS",
-    
+
   },
   {
     id: "18",
